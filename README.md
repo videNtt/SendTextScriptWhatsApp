@@ -4,7 +4,7 @@ Código para enviar o qualquer mensagem via script para seus amigos ou grupos do
 
 ##  🚀 Utilização
 
-Abra [enviarTextoScriptWhatsApp.js]
+Abra [enviarTextoScriptWhatsApp.js](https://github.com/videNtt/SendTextScriptWhatsApp/blob/main/enviarTextoScriptWhatsApp.js)
 
 Copie todo o conteúdo (clique em RAW -> CTRL + A -> CTRL + C)
 
